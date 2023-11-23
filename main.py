@@ -1,5 +1,5 @@
 from flask import Flask, jsonify,request
-from gpt4all import Embed4All
+# from gpt4all import Embed4All
 
 app = Flask(__name__)
 # @app.route('/api/embedding', methods=['POST'])
